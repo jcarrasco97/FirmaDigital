@@ -1,10 +1,10 @@
-# 🖊️ FirmaDigital
+# FirmaDigital
 
 Aplicación Android que permite al usuario **dibujar y guardar una firma digital** en su dispositivo móvil como imagen JPG. Incluye una interfaz sencilla para firmar, borrar, ajustar el grosor del trazo y guardar la firma en almacenamiento externo.
 
 ---
 
-## 📱 Funcionalidades
+## Funcionalidades
 
 - Dibujar una firma con el dedo.
 - Cambiar el tamaño del trazo desde una pantalla de configuración.
@@ -14,7 +14,7 @@ Aplicación Android que permite al usuario **dibujar y guardar una firma digital
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Java
 - Android SDK
@@ -24,7 +24,7 @@ Aplicación Android que permite al usuario **dibujar y guardar una firma digital
 
 ---
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 | Clase                     | Descripción |
 |---------------------------|-------------|
